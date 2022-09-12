@@ -1,0 +1,129 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: white;
+}
+
+#container {
+    background: url("./img/fundo\ netflix.jpg");
+    background-size: 208vh;
+    background-repeat: no-repeat;
+    padding-bottom: 140px;
+    margin-top: -18px;
+}
+
+
+#botaoEntrar {
+    background-color: #e50914;
+    font-size: 16px;
+    padding: 8px 18px;
+    border: 0;
+    border-radius: 3px;
+    float: right;
+    cursor: pointer;
+}
+
+#cabecalho {
+    padding: 45px 56px;
+}
+
+#logo-netflix {
+    width: 134px;
+    height: 36px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    width: 700px;
+    margin: 130px auto 0 auto;
+}
+
+#paragrafoAssista {
+    font-size: 26px;
+    text-align: center;
+    margin-top: 14px;
+}
+
+#paragrafoPronto {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 24px;
+}
+
+input {
+    font-size: 15px;
+    width: 450px;
+    height: 60px;
+    padding: 10px 10px 5px;
+    color: #222222;
+}
+
+#botaoEmail {
+    width: 183px;
+    height: 60px;
+    background-color: #E50914;
+    border: 0;
+    font-size: 25px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+#botaoEmail:hover {
+    background-color: #F40612;
+}
+
+#formulario {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    height: 70px;
+}
+
+#rodape {
+    background-color: black;
+    border-top: 8px solid #222222;
+    padding: 100px 0;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+}
+
+#botaoPergunta {
+    background-color: #303030;
+    height: 75px;
+    width: 815px;
+    border: 0;
+    font-size: 26px;
+    text-align: left;
+    display: block;
+    cursor: pointer;
+    margin: 40px auto 1.5px auto;
+    padding: 0 33px;
+}
+
+#imagemPergunta {
+    float: right;
+    margin-top: 8px;
+    transform: rotate(45deg);
+}
+
+#imagemPerguntaGirar {
+    float: right;
+    margin-top: 8px;
+    transform: rotate(90deg);
+}
+
+#pergunta {
+    width: 815px;
+    background-color: #303030;
+    margin: 1.2px auto -32px auto;
+    padding: 40px;
+    font-size: 26px;
+    line-height: 30px;
+    display: none;
+}
