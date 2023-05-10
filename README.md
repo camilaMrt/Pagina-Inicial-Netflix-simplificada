@@ -1,6 +1,6 @@
 # Página Inicial Netflix (Simplificada)
 <br>
-:small_blue_diamond: Projeto replicando a página inicial do Netflix de uma maneira simplificada, realizado juntamente ao projeto online programação do zero do
+:small_blue_diamond: Projeto replicando a página inicial do Netflix de uma maneira simplificada, <br>realizado juntamente ao projeto online programação do zero do
 <a href="https://github.com/rodolfomori?tab=repositories">Rodolfo Mori</a>.
 
 <br><br>
