@@ -1,12 +1,10 @@
-# Página Inicial Netflix (Simplificada)
+# <div align="center"> Página Inicial Netflix (Simplificada)</div>
 <br>
-:small_blue_diamond: Projeto replicando a página inicial do Netflix de uma maneira simplificada, <br>realizado juntamente ao projeto online programação do zero do
-<a href="https://github.com/rodolfomori?tab=repositories">Rodolfo Mori</a>.
+<div align="center">:small_blue_diamond: Projeto replicando a página inicial do Netflix de uma maneira simplificada, <br>realizado juntamente ao projeto online programação do zero do <a href="https://github.com/rodolfomori?tab=repositories">Rodolfo Mori</a>.</div>
 
 <br><br>
 
-<img align="center" width="500px" 
-src="https://raw.githubusercontent.com/camilaMrt/Pagina-Inicial-Netflix-simplificada/cdb81c4a1c22742af330572d272cf71036d2a716/img/gif%20netflix.gif"> 
+<div align="center"><img width="500px" src="https://raw.githubusercontent.com/camilaMrt/Pagina-Inicial-Netflix-simplificada/cdb81c4a1c22742af330572d272cf71036d2a716/img/gif%20netflix.gif"></div>
 
 <br><br>
 
